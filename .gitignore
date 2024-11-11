@@ -1,0 +1,9 @@
+BaiTap01.txt
+*.aux
+*.out
+*.toc
+*.bbl
+*.tex
+*.fdb_latexmk
+*.fls
+*.synctex.gz
